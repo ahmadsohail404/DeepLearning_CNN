@@ -27,12 +27,10 @@ The CNN model for this project includes convolutional layers, pooling layers, an
 The CIFAR-10 dataset, consisting of 60,000 32x32 color images in 10 classes, is used in this project. The dataset is split into training and testing sets and is directly loaded via TensorFlow.
 
 ## Results and Observations
-- Document the accuracy and loss metrics observed during training and evaluation.
-- Include any interesting findings or challenges encountered during the project.
+<img width="1130" alt="Screenshot 2023-12-17 at 2 19 25 AM" src="https://github.com/ahmadsohail404/DeepLearning_CNN/assets/72069769/a9ed1bd5-91d2-4893-8c65-618030c87a2e">
 
-## Future Work
-- Explore the impact of different CNN architectures and hyperparameters on model performance.
-- Investigate advanced techniques like data augmentation and transfer learning.
+- Here are the classes in the dataset, as well as 10 random images from each:
+<img width="772" alt="Screenshot 2023-12-17 at 2 20 28 AM" src="https://github.com/ahmadsohail404/DeepLearning_CNN/assets/72069769/902872bd-310a-4dae-81c9-0f01622944e8">
 
 ## References
 - TensorFlow Documentation: [TensorFlow](https://www.tensorflow.org/)
